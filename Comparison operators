@@ -1,0 +1,8 @@
+x=10
+y=12
+x>y is false
+print('x>y is',x>y)
+x<y is true 
+print ('x<y is',x<y)
+x>=y false 
+print('x>=y is',x>=y)
